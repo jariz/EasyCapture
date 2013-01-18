@@ -1,0 +1,10 @@
+﻿EasyCapture 1.3.1.0 BETA Changelog
+- Made it impossible to run more than one EC at a time
+- Installer now gets downloaded when there's a update available.
+- Fixed some weird Windows 8 bug that threw a exception whenever a link is opened
+- Fixed uninstaller trying to remove itself
+- Removed 'reminder', was useless.
+- Added panel to general settings that shows if the program is still up to date.
+- Added new settings tab. '3rd party services' allows you to enable other services really easy.
+- Bugfixes, performance boosts and typo's fixed.
+- <a href="http://easycaptu.re/donate">Donate</a> button added

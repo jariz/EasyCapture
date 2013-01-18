@@ -1,0 +1,20 @@
+﻿EasyCapture 1.3.0.0 BETA Changelog
+- EasyCapture now is in public beta and open to all
+- Fixed files being to big (mysql misconfiguration)
+- Added volumebars to visualize audio on sound device
+- You can capture audio from microphones now
+- Added debug console
+- Added debug option at fatal error
+- Added disabling splash screen
+- Added disabling updates (not recommended as you can see in the massive changelog here)
+- Added start with windows checkbox
+- Fixed working directory bug
+- Changelog shows no matter what.
+- Report bugs at <a href="http://code.google.com/p/easycapture/issues/list">http://code.google.com/p/easycapture/issues/list</a> (please do)
+- We encrypt passwords now to basic salted-MD5. (You'll have to re-add your accounts)
+- Fixed pastebin captcha (it actually works now, lol)
+- Fixed imgur authorization problems (completely rewritten)
+- Monitor detection code rewritten. Works better with multiple monitors now.
+- No more missing pixel.
+- Changed default keys to CTRL+F1 CTRL+F2 CTRL+F3.
+- Many performance fixes and tweaks

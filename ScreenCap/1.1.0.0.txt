@@ -1,0 +1,8 @@
+MAJOR CHANGES:
+- Completely replaced the hotkey system
+- Setup for first time users
+- Option to disable the 'create an account' reminder.
+- Performance tweaks
+- Speed tweaks
+- Lots and lots of bugfixes
+- New updater

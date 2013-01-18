@@ -1,0 +1,10 @@
+MAJOR CHANGES:
+- Multi screen support for ScreenCapture
+- New updater (again)
+- 'Pause' feature for ScreenCapture (check it out in the settings)
+- SoundCapture now shows 'REC' in the bottom-right corner! :D
+- Site completely redesigned and recreated.
+- Removed program waiting for 2 seconds before exiting (why was that there in the first place?)
+- New domain (easycaptu.re instead of easycapture.nl)
+- Imgur & Pastebin support
+- Rewritten the hotkey system for the third time

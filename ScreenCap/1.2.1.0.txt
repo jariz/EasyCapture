@@ -1,0 +1,3 @@
+﻿First official alpha build, not for distribution.
+Report bugs to the@jariz.pro
+That's not a question, that's your duty as alpha tester.
